@@ -18,3 +18,7 @@ Here's a quick look at whate i use:
 ---
 ## My Favorite Command
 `git add .` - this command saves all my photo projects 
+
+
+
+![dog](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCRZQwmeB5w8kVYTsbm9dak9aK1irp7CVb5VzjEsonRQ&s=10) 
